@@ -1,4 +1,4 @@
-**Music Genre Clustering & Popularity Analysis**
+**Music Genre Clustering and Popularity Analysis**
 
 This project analyzes Spotify music data using Python and machine learning.
 It explores audio features to understand what influences song popularity and applies
